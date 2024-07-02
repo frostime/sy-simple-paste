@@ -1,7 +1,7 @@
 {
-  "name": "plugin-sample-min",
+  "name": "sy-simple-paste",
   "author": "frostime",
-  "url": "https://github.com/frostime/plugin-sample-min",
+  "url": "https://github.com/frostime/sy-simple-paste",
   "version": "0.1.0",
   "minAppVersion": "2.10.0",
   "backends": [
@@ -14,16 +14,16 @@
     "desktop-window"
   ],
   "displayName": {
-    "en_US": "Plugin sample minimum",
-    "zh_CN": "插件样例最简版"
+    "en_US": "Simple Paste",
+    "zh_CN": "简单粘贴"
   },
   "description": {
-    "en_US": "A minimum SiYuan plugin sample",
-    "zh_CN": "最简版本的思源插件样例"
+    "en_US": "Overwrite some paste event",
+    "zh_CN": "覆盖一些粘贴事件"
   },
   "readme": {
-    "en_US": "README.md",
-    "zh_CN": "README_zh_CN.md"
+    "zh_CN": "README.md",
+    "en_US": "README.md"
   },
   "funding": {
     "custom": [
@@ -31,6 +31,6 @@
     ]
   },
   "keywords": [
-    "plugin", "sample", "插件样例"
+    "plugin", "paste", "粘贴"
   ]
 }

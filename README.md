@@ -1,3 +1,1 @@
-A minimum sample/template for SiYuan's plugin development.
-
-About `siyuan` module, please refer to [Petal](https://github.com/siyuan-note/petal)
+覆盖 zotero、bilibili 的 paste 链接
